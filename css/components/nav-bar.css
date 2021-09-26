@@ -32,3 +32,11 @@
   left: 15px;
   bottom: 15px;
 }
+
+.nav__dot {
+  color: tomato;
+  font-size: 50px;
+  position: absolute;
+  bottom: 20px;
+  left: 30px;
+}
